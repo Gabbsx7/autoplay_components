@@ -1,0 +1,22 @@
+{
+  "name": "stack-cards-component",
+  "version": "2.0.0",
+  "description": "WeWeb custom code component for stacked project cards with dynamic filters",
+  "main": "wwElement.vue",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "weweb",
+    "stack",
+    "cards",
+    "projects",
+    "filters",
+    "vue",
+    "component"
+  ],
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  }
+}
